@@ -1,5 +1,5 @@
 # Ringkasan SaaS, PaaS, dan IaaS
-================================
+===
 
 *Tekhnologi Cloud computing* adalahsebuah teknologi yang mengacu pada penggunaan media internet sebagai sumber daya komputasi. Pengertian cloud computing secara teknis adalah banyak server yang saling terhubung yang digunakan untuk menyediakan sumber daya (source) oleh setiap penggunanya bersama. Sumber daya ini dapat berupa aplikasi (software), penyimpanan (storage), data, dan lain-lain.
 Cloud Computing juga merupakan model yang memungkinkan dapat mendukung layanan yang disebut ”Everything-as-a-service” (XaaS).
