@@ -22,18 +22,14 @@ Beberapa karakteristik yang harus terpenuhi :
 - Meningkatkan produktivitas bagi pengguna.
 
 **Implementasi layanan SaaS**
-	Implementasi cloud computing dapat diterapkan pada jaringan yang bersifat public atau jaringan yang bersifat private. 
-	Jaringan yang bersifat public adalah suatu jaringan yang dapat diakses dan digunakan secara umum oleh setiap orang selama orang tersebut 
-	terkoneksi dengan internet sedangkan jaringan yang bersifat private adalah suatu jaringan yang hanya dapat diakses dan digunakan oleh 
-	orang – orang tertentu meskipun melalui koneksi internet.Ketika cloud computing diimplementasikan ke dalam jaringan public, 
-	maka seluruh sumber daya atau resources dari aplikasi sepenuhnya berada internet. Layanan SaaS yang bersifat public sering kita jumpai 
-	dalam bentuk aplikasi web atau web services. Ketika provider meletakkan seluruh sumber daya atau resources dari aplkasi ke dalam internet 
-	tetapi hanya beberapa orang yang dapat menggunakannya maka layanan SaaS tersebut bersifat private.SaaS yang ditawarkan provider kepada pengguna 
-	baik melalui jaringan public maupun jaringan private pada dasarnya mempunyai satu karakteristik yang sama yaitu mudah diakses dan berskala luas 
-	( upgrade aplikasi, modifikasi aplikasi disesuaikan dengan kebutuhan dan keinginan pengguna ).Berbagai SaaS yang dibuat oleh provider sering disebut 
-	dalam berbagai versi yaitu versi berbasis web, on demand dan sebagainya. Apapun versi yang dibuat oleh provider, yang diperlukan oleh pengguna adalah koneksi 
-	internet untuk dapat menggunakan SaaS tersebut.Metodologi pengembangan dari SaaS memiliki kesamaan dengan pengembangan software desktop baik dari sisi 
-	kemampuan aplikasi diakses dalam skala besar, tingkat keamanan dan aplikasi yang nyaman digunakan oleh pengguna.
+Implementasi cloud computing dapat diterapkan pada jaringan yang bersifat public atau jaringan yang bersifat private. 
+Jaringan yang bersifat public adalah suatu jaringan yang dapat diakses dan digunakan secara umum oleh setiap orang
+selama orang tersebut. terkoneksi dengan internet sedangkan jaringan yang bersifat private adalah suatu jaringan yang hanya dapat diakses dan digunakan oleh orang – orang tertentu meskipun melalui koneksi internet.Ketika cloud computing diimplementasikan ke dalam jaringan public, maka seluruh sumber daya atau resources dari aplikasi sepenuhnya berada internet. 
+
+Layanan SaaS yang bersifat public sering kita jumpai dalam bentuk aplikasi web atau web services. Ketika provider meletakkan seluruh sumber daya atau resources dari aplkasi ke dalam internet tetapi hanya beberapa orang yang dapat menggunakannya maka layanan SaaS tersebut bersifat private.SaaS yang ditawarkan provider kepada pengguna baik melalui jaringan public maupun jaringan private pada dasarnya mempunyai satu karakteristik yang sama yaitu mudah diakses dan berskala luas ( upgrade aplikasi, modifikasi aplikasi disesuaikan dengan kebutuhan dan keinginan pengguna ).
+
+Berbagai SaaS yang dibuat oleh provider sering disebut 
+dalam berbagai versi yaitu versi berbasis web, on demand dan sebagainya. Apapun versi yang dibuat oleh provider, yang diperlukan oleh pengguna adalah koneksi internet untuk dapat menggunakan SaaS tersebut.Metodologi pengembangan dari SaaS memiliki kesamaan dengan pengembangan software desktop baik dari sisi kemampuan aplikasi diakses dalam skala besar, tingkat keamanan dan aplikasi yang nyaman digunakan oleh pengguna.
 
 **Apa saja yang perlu diperhatikan apabila kamu ingin memasuki ranah SaaS?**
 - Buat produk yang disukai pengguna
