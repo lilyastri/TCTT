@@ -55,19 +55,31 @@ Ikuti petunjuk sederhana berikut untuk mengunduh dan menginstal aplikasi desktop
 
 - Kunjungi website dropbox https://www.dropbox.com/
   
-  <img src="https://github.com/lilyastri/tct/blob/master/img/drop1.jpg" alt="gambar1"/>
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop1.jpg" alt="gambar1"/>
   
   Langkah pertama untuk membuat akun di Dropbox tentu saja Anda harus mengunjungi situs resmi dropbox diatas, jika sudah 
   sampai silahkan klik Sign Up.
+  
 - Masukkan nama, email dan password.
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop2.jpg" alt="gambar2"/>
+  
   Pada kolom first name dan last name isikan nama lengkap Anda, dan pada kolom email silahkan masukkan email aktif (bebas dari
   webmail mana saja) dan di kolom password isikan kombinasi huruf dan angka (buat password yang kuat), jika sudah klik 'I agree'
   dan 'Sign Up'
+  
 - Pilih 'dropbox basic'
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop3.jpg" alt="gambar3"/>
+
   Setelah menyelesaikan pendaftaran, Anda akan diminta untuk memilih tiga paket Dropbox, dari mulai paket Basic, Pro dan
   Business. Karena saya suka yang gratisan, maka saya pilih yang Dropbox Basic. Tidak perlu khawatir dengan disk space yang
   hanya 2GB, karena nanti kita bisa upgrade.
+  
 - Download dropbox
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop4.jpg" alt="gambar4"/>
+
   Pada tahap ini dropbox akan otomatis terdownload, namun jika belum Anda bisa mengklik link 'restart the download' untuk
   mengulangi proses download Dropbox. Aplikasi dropbox untuk komputer ini cukup ringan karena hanya berukuran 300KB.
 
@@ -78,34 +90,75 @@ Dari sini kita sudah berhasil mendaftar untuk membuat 1 akun dropbox. Tugas kita
 Dropbox bukanlah software yang memiliki ukuran yang besar, jadi Anda tidak perlu takut jika menginstall aplikasi dropbox di komputer, karena bisa dipastikan tidak akan memnuhi harddisk pada komputer Anda. Cara menginstall dropbox sebenarnya sangat sederhana, tinggal Anda klik next, next dan finish, atau lebih jelasnya bisa Anda ikuti caranya berikut ini.
 
 - Klik 2x di file dropbox.exe
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop5.jpg" alt="gambar5"/>
+
   Silahkan Anda cari terlebih dahulu file dropbox.exe, jika sudah ketemu, klik dua kali (double klik) pada file tersebut untuk
   mulai menginstall aplikasi dropbox di komputer.
+  
 - Klik install
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop6.jpg" alt="gambar6"/>
+
   Akan muncul pop up dari dropbox, silahkan Anda klik install.
+  
 - Tunggu sebentar
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop7.jpg" alt="gambar7"/>
+
   Tunggu hingga proses installasi dropbox selesai, biasanya akan membutuhkan waktu 1 - 3 menit saja.
+  
 - Pilih 'I already have a dropbox account'
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop8.jpg" alt="gambar8"/>
+
   Ada dua pilihan pada tahap ini, yaitu 'i dont have dropbox account' dan 'i already have a dropbox account' pilih poin 2.
+  
 - Masukkan email, password dan computer name
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop9.jpg" alt="gambar9"/>
+
   Tahap selanjutnya adalah mengisikan data login yang sudah Anda buat di situs dropbox.com tadi. Jika sudah klik Next.
+  
 - Pilih yang 2GB
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop10.jpg" alt="gambar10"/>
+
   Sama seperti di web / situs dorpbox.co, akan ada 3 pilihan paket, Anda pilih saja yang gratis (paket yang 2GB).
+  
 - Pilih 'Advanced'
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop11.jpg" alt="gambar11"/>
+
   Ada dua pilihan cara penginstallan dropbox yaitu 'Typical' dan 'Advanced' saran saya pilih saja yang Advanced karena kita
-  tinggal terima jadi, 
-  tidak perlu setting lagi.
+  tinggal terima jadi, tidak perlu setting lagi.
+  
 - Pilih folder penyimpanan dropbox
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop12.jpg" alt="gambar12"/>
+
   Anda bisa mengatur folder penyimpanan dropbox, apakah di Local Disk C atau Local Disk D. Karena ukurna aplikasi dropbox ini 
-  terbilang kecil, 
-  jadi Anda bebas meletakkan dimana saja.
+  terbilang kecil, jadi Anda bebas meletakkan dimana saja.
+  
 - Pilih 'I want this computer to sync all of the folder in my Dropbox'
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop13.jpg" alt="gambar13"/>
+
   Lagi-lagi Anda akan dihadapkan pada dua pilihan antara 'I want this computer to sync all of the folder in my Dropbox' atau 'I 
   want to use Selective Sync to choose which folders sync to this computer' penjelasannya sederhana, poin 1 mengijinkan dropbox
   untuk mensinkronisasi seluruh file yang ada di komputer, dan poin 2 Anda sendiri yang menentukan folder mana saja yang
   diijinkan.
+  
 - Klik 'Skip tour'
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop14.jpg" alt="gambar14"/>
+
   Jika ingin cepat menyelasikan proses installasi dropbox ini, maka silahkan Anda klik 'skip tour'.
+  
 - Klik 'Finish'
+
+     <img src="https://github.com/lilyastri/tct/blob/master/img/drop15.jpg" alt="gambar15"/>
+
   Selamat, Anda sudah berhasil menginstall dorpbox di komputer, untuk mengakhiri proses installasi klik 'finish'.
 
 Selanjutnya silahkan Anda cek folder yang Anda gunakan untuk menyimpan file-file dropbox tadi. Jika menyimpan di Local Disk C, maka silahkan Anda cek di Drive C: atau jika di Local Disk D cek di Drive D: maka ada folder Dropbox disana, itu artinya dropbox sudah terinstall di komputer Anda, dan siap untuk digunakan.
