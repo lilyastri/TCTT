@@ -24,11 +24,7 @@ bisnis atau kelompok lainnya yang membutuhkan layanan untuk mengendalikan admini
 
 Bila dibandingkan dengan layanan serupa lainnya, Dropbox menawarkan jumlah pengguna yang relatif besar, dengan penggunaan sistem 
 operasi yang bervariasi, baik untuk perangkat mobile ataupun desktop. Terdapat berbagai versi untuk berbagai sistem operasi, 
-termasuk untuk Microsoft Windows, Mac OS X, dan Linux (resmi atau tidak resmi). Dan tersedia juga berbagai versi untuk perangkat mobile, 
-diantaranya Android, Windows Phone 7, iPhone, iPad, WebOS, dan Blackberry, dan klien yang berbasis web. Dropbox menggunakan model 
-finansial Freemium, dan layanan gratisnya menyediakan 2 GB penyimpanan online gratis. Para pengguna yang menyarankan Dropbox ke orang 
-lain bisa meningkatkan kapasitas penyimpanan hingga 8 GB. Kompetitor utama dari Dropbox antara lain, Box.net, FilesAnywhere, CloudMe, 
-CrashPlan, Egnyte, iCloud, Mozy, SpiderOak, SugarSync, TitanFile, Ubuntu One, Windows Live SkyDrive, Wuala dan ZumoDrive. 
+termasuk untuk Microsoft Windows, Mac OS X, dan Linux (resmi atau tidak resmi). Dan tersedia juga berbagai versi untuk perangkat mobile, diantaranya Android, Windows Phone 7, iPhone, iPad, WebOS, dan Blackberry, dan klien yang berbasis web. Dropbox menggunakan model finansial Freemium, dan layanan gratisnya menyediakan 2 GB penyimpanan online gratis. Para pengguna yang menyarankan Dropbox ke orang lain bisa meningkatkan kapasitas penyimpanan hingga 8 GB. Kompetitor utama dari Dropbox antara lain, Box.net, FilesAnywhere, CloudMe, CrashPlan, Egnyte, iCloud, Mozy, SpiderOak, SugarSync, TitanFile, Ubuntu One, Windows Live SkyDrive, Wuala dan ZumoDrive. 
 
 **Tekhnologi Drobox**
 
@@ -58,6 +54,9 @@ Ikuti petunjuk sederhana berikut untuk mengunduh dan menginstal aplikasi desktop
 **Cara Daftar / Membuat Akun Dropbox**
 
 - Kunjungi website dropbox https://www.dropbox.com/
+  
+  <img src="https://github.com/lilyastri/tct/blob/master/img/drop1.jpg" alt="gambar1"/>
+  
   Langkah pertama untuk membuat akun di Dropbox tentu saja Anda harus mengunjungi situs resmi dropbox diatas, jika sudah 
   sampai silahkan klik Sign Up.
 - Masukkan nama, email dan password.
