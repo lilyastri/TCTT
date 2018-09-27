@@ -11,7 +11,9 @@ bayar berdasar channel yang diinginkan). Dari sinilah muncul istilah Pay per use
 Yang jelas, dengan menggunakan SaaS banyak perusahaan yang terbantu untuk menekan biaya yang harus dikeluarkan untuk membeli 
 sebuah perangkat lunak.
 
+--------------------
 Salah satu contoh dari SaaS adalah *Drobox* 
+--------------------------------------
 
 Dropbox adalah sebuah perusahaan yang bergerak dilayanan cloud (awan) atau layanan penyimpanan data berbasis web. 
 Kegunaan dan fungsi dropbox adalah sebagai tempat untuk menyimpan data atau file di dropbox inc secara gratis bagi semua orang 
@@ -27,14 +29,17 @@ Bila dibandingkan dengan layanan serupa lainnya, Dropbox menawarkan jumlah pengg
 operasi yang bervariasi, baik untuk perangkat mobile ataupun desktop. Terdapat berbagai versi untuk berbagai sistem operasi, 
 termasuk untuk Microsoft Windows, Mac OS X, dan Linux (resmi atau tidak resmi). Dan tersedia juga berbagai versi untuk perangkat mobile, diantaranya Android, Windows Phone 7, iPhone, iPad, WebOS, dan Blackberry, dan klien yang berbasis web. Dropbox menggunakan model finansial Freemium, dan layanan gratisnya menyediakan 2 GB penyimpanan online gratis. Para pengguna yang menyarankan Dropbox ke orang lain bisa meningkatkan kapasitas penyimpanan hingga 8 GB. Kompetitor utama dari Dropbox antara lain, Box.net, FilesAnywhere, CloudMe, CrashPlan, Egnyte, iCloud, Mozy, SpiderOak, SugarSync, TitanFile, Ubuntu One, Windows Live SkyDrive, Wuala dan ZumoDrive. 
 
+-------------------------
 **Tekhnologi Drobox**
-
+-------------------------
 Baik server atau desktop client Dropbox, keduanya ditulis dengan Python. Dropbox menggunakan sistem penyimpanan Amazon's S3 untuk menyimpan data; walaupun Houston telah menyatakan bahwa Dropbox mungkin akan mengubah ke penyedia jasa penyimpanan lainnya suatu saat nanti. Dropbox juga menggunakan transfer SSL untuk sinkronisasi dan menyimpan data lewat enkripsi AES-256.
 
 Klien Dropbox memungkinkan para pengguna untuk meletakkan data apapun menjadi sebuah berkas, yang kemudian dapat dihubungkan dengan layanan internet Dropbox dan ke komputer dan perangkat yang dimiliki pengguna-pengguna lainnya, yang juga memiliki klien Dropbox. Pengguna juga bisa mengunggah data secara manual lewat web browser.Dropbox dapat menjadi alternatif dari sneakernet 
 (transportasi fisik lewat media yang dapat dipindahkan), dan bentuk tradisional lainnya dari transfer data, seperti FTP atau lampiran e-mail.
 
+------------------------------------------------
 **Cara Mengunduh dan Install Aplikasi Dropbox**
+--------------------------------------------------
 
 Aplikasi desktop Dropbox tersedia untuk sistem operasi Linux, macOS, dan Windows. Setelah diinstal, aplikasi membuat folder Dropbox di komputer Anda. Folder ini berfungsi seperti folder lainnya, tetapi dengan beberapa perbedaan penting:
 
@@ -42,7 +47,9 @@ Aplikasi desktop Dropbox tersedia untuk sistem operasi Linux, macOS, dan Windows
 - Perubahan dibuat di sini juga disinkronkan ke akun Dropbox orang yang Anda bagikan filenya.
 - Anda bisa mengakses file dan folder yang dibagikan orang lain bersama Anda
 
+-------------------------
 **Cara mengunduh dan menginstal aplikasi desktop Dropbox**
+----------------------------------------
 
 Ikuti petunjuk sederhana berikut untuk mengunduh dan menginstal aplikasi desktop Dropbox di komputer Linux, Mac, dan Windows.
 
