@@ -58,8 +58,10 @@ Ikuti petunjuk sederhana berikut untuk mengunduh dan menginstal aplikasi desktop
   Jika Anda menghubungkan akun Dropbox Business, pastikan Anda juga masuk ke akun ini juga.
 - Setelah Dropbox dipasang di komputer, Anda akan melihat folder Dropbox baru di hard drive. Anda juga akan melihat ikon Dropbox 
   di baki sistem atau bilah menu.
-
+  
+--------------------------------------
 **Cara Daftar / Membuat Akun Dropbox**
+---------------------------------------
 
 - Kunjungi website dropbox https://www.dropbox.com/
   
