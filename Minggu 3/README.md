@@ -28,7 +28,9 @@ bisnis atau kelompok lainnya yang membutuhkan layanan untuk mengendalikan admini
 
 Bila dibandingkan dengan layanan serupa lainnya, Dropbox menawarkan jumlah pengguna yang relatif besar, dengan penggunaan sistem 
 operasi yang bervariasi, baik untuk perangkat mobile ataupun desktop. Terdapat berbagai versi untuk berbagai sistem operasi, 
-termasuk untuk Microsoft Windows, Mac OS X, dan Linux (resmi atau tidak resmi). Dan tersedia juga berbagai versi untuk perangkat mobile, diantaranya Android, Windows Phone 7, iPhone, iPad, WebOS, dan Blackberry, dan klien yang berbasis web. Dropbox menggunakan model finansial Freemium, dan layanan gratisnya menyediakan 2 GB penyimpanan online gratis. Para pengguna yang menyarankan Dropbox ke orang lain bisa meningkatkan kapasitas penyimpanan hingga 8 GB. Kompetitor utama dari Dropbox antara lain, Box.net, FilesAnywhere, CloudMe, CrashPlan, Egnyte, iCloud, Mozy, SpiderOak, SugarSync, TitanFile, Ubuntu One, Windows Live SkyDrive, Wuala dan ZumoDrive. 
+termasuk untuk Microsoft Windows, Mac OS X, dan Linux (resmi atau tidak resmi). 
+
+Dan tersedia juga berbagai versi untuk perangkat mobile, diantaranya Android, Windows Phone 7, iPhone, iPad, WebOS, dan Blackberry, dan klien yang berbasis web. Dropbox menggunakan model finansial Freemium, dan layanan gratisnya menyediakan 2 GB penyimpanan online gratis. Para pengguna yang menyarankan Dropbox ke orang lain bisa meningkatkan kapasitas penyimpanan hingga 8 GB. Kompetitor utama dari Dropbox antara lain, Box.net, FilesAnywhere, CloudMe, CrashPlan, Egnyte, iCloud, Mozy, SpiderOak, SugarSync, TitanFile, Ubuntu One, Windows Live SkyDrive, Wuala dan ZumoDrive. 
 
 -------------------------
 **Tekhnologi Drobox**
@@ -96,7 +98,9 @@ Ikuti petunjuk sederhana berikut untuk mengunduh dan menginstal aplikasi desktop
 
 Dari sini kita sudah berhasil mendaftar untuk membuat 1 akun dropbox. Tugas kita selanjutnya agar bisa menggunakan Dropbox di Komputer adalah menginstallnya. Panduan lengkap menginstall dropbox bisa Anda baca dibawah ini.
 
+---------
 **Cara Instal Dropbox**
+------------------
 
 Dropbox bukanlah software yang memiliki ukuran yang besar, jadi Anda tidak perlu takut jika menginstall aplikasi dropbox di komputer, karena bisa dipastikan tidak akan memnuhi harddisk pada komputer Anda. Cara menginstall dropbox sebenarnya sangat sederhana, tinggal Anda klik next, next dan finish, atau lebih jelasnya bisa Anda ikuti caranya berikut ini.
 
