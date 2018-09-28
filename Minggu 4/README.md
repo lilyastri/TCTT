@@ -14,7 +14,7 @@ aplikasi proses) adalah mungkin tanpa pengetahuan pemrograman. Pra-dikonfigurasi
 Memori proses menyimpan semua perubahan dan memungkinkan ikhtisar dari semua proses yang relevan data, sehingga membantu dengan 
 peningkatan berkelanjutan proses Anda.
 
-   <img src="https://github.com/lilyastri/tct/blob/master/img/gm1.jpg" alt="gam1"/>
+   <img src="https://github.com/lilyastri/tct/blob/master/img/gm1.JPG" alt="gam1"/>
 
 --------
 ### Membuat Proses Bisnis Aplikasi Bagi Pengguna Baru
