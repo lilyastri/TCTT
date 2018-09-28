@@ -14,13 +14,13 @@ aplikasi proses) adalah mungkin tanpa pengetahuan pemrograman. Pra-dikonfigurasi
 Memori proses menyimpan semua perubahan dan memungkinkan ikhtisar dari semua proses yang relevan data, sehingga membantu dengan 
 peningkatan berkelanjutan proses Anda.
 
-<img src="https://github.com/lilyastri/tct/blob/master/img/gm1.jpg" alt="gm1"/>
+   <img src="https://github.com/lilyastri/tct/blob/master/img/gm1.jpg" alt="gam1"/>
 
 --------
 ### Membuat Proses Bisnis Aplikasi Bagi Pengguna Baru
 ----------------
 
-<img src="https://github.com/lilyastri/tct/blob/master/img/Gm2.jpg" alt="gm2"/>
+   <img src="https://github.com/lilyastri/tct/blob/master/img/Gm2.jpg" alt="gam2"/>
 
 ------------
 #### BPaaS Cockpit
