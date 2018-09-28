@@ -20,7 +20,7 @@ peningkatan berkelanjutan proses Anda.
 ### Membuat Proses Bisnis Aplikasi Bagi Pengguna Baru
 ----------------
 
-   <img src="https://github.com/lilyastri/tct/blob/master/img/Gm2.jpg" alt="gam2"/>
+   <img src="https://github.com/lilyastri/tct/blob/master/img/Gm2.JPG" alt="gam2"/>
 
 ------------
 #### BPaaS Cockpit
@@ -31,12 +31,13 @@ BPaaS Cockpit menawarkan pengguna titik awal yang dipersonalisasi dengan konten 
 
 Desain antarmuka pengguna yang minimal dan jelas serta berbagai elemen pengguna dan elemen konten yang peka konteks mengarahkan pengguna sepanjang prosesnya ke tujuan mereka. 
 
-<img src="https://github.com/lilyastri/tct/blob/master/img/Gm3.jpg" alt="gm3"/>
+   <img src="https://github.com/lilyastri/tct/blob/master/img/Gm3.JPG" alt="gam3"/>
 
 ---------
 Pencarian dan fungsi filter
 ----------
-<img src="https://github.com/lilyastri/tct/blob/master/img/Gm4.jpg" alt="gm4"/>
+
+   <img src="https://github.com/lilyastri/tct/blob/master/img/Gm4.JPG" alt="gam4"/>
 
 *Fitur :*
 -----------------
@@ -59,7 +60,7 @@ Menggambarkan proses bisnis dan inovasi Anda secara sederhana dan langsung denga
 
 Panduan tepi otomatis dan pilihan objek yang sensitif terhadap konteks membuat penggambaran langkah-langkah proses menjadi sederhana bagi pengguna. Banyak kemungkinan impor dan ekspor, seperti impor model BPMM 2.0 atau JSON, memungkinkan penggunaan lebih lanjut dan sinkronisasi model atau struktur organisasi. Misalnya, Anda dapat mengimpor model ARIS, menyesuaikannya dan menjadikannya sesuai untuk implementasi sesuai dengan desain aplikasi. Penciptaan suatu organigram juga sederhana.
 
-<img src="https://github.com/lilyastri/tct/blob/master/img/Gm5.jpg" alt="gm5"/>
+   <img src="https://github.com/lilyastri/tct/blob/master/img/Gm5.JPG" alt="gam5"/>
 
 *Fitur :*
 ----------
@@ -82,13 +83,13 @@ Panduan tepi otomatis dan pilihan objek yang sensitif terhadap konteks membuat p
 
 Desain Aplikasi memungkinkan pembuatan proses yang intuitif dikontrol, aplikasi bisnis responsif berdasarkan model EPK. Perkaya model proses Anda yang sudah ada dengan elemen aplikasi yang disebut formulir dan terapkan proses Anda dengan mengklik mouse. Dalam bentuk individu Anda dapat mendesain antarmuka aplikasi bisnis Anda secara fungsional.
 
-<img src="https://github.com/lilyastri/tct/blob/master/img/Gm6.jpg" alt="gm6"/>
+   <img src="https://github.com/lilyastri/tct/blob/master/img/Gm6.JPG" alt="gam6"/>
 
 -------------------------
 Application design - stage
 --------------------
 
-<img src="https://github.com/lilyastri/tct/blob/master/img/Gm7.jpg" alt="gm7"/>
+   <img src="https://github.com/lilyastri/tct/blob/master/img/Gm7.JPG" alt="gam7"/>
 
 **Fitur :**
 ----------
@@ -123,8 +124,8 @@ Application design - stage
 
 Di samping proses bisnis dan aplikasi, proses integrasi dapat diilustrasikan dan diimplementasikan dengan drag & drop. Elemen integrasi siap pakai memungkinkan integrasi sistem pihak ketiga yang cepat dan bebas masalah, misalnya integrasi sistem ERP. E2E-restifier untuk SAP memungkinkan akses sinkron ke SAP. Berdasarkan JavaScript, antarmuka sistem dapat diimplementasikan secara individual. Banyak standar B2B seperti OCI, BPMN 2.0 atau SWIFT didukung.
 
-<img src="https://github.com/lilyastri/tct/blob/master/img/Gm8.jpg" alt="gm8"/>
-<img src="https://github.com/lilyastri/tct/blob/master/img/Gm9.jpg" alt="gm9"/>
+   <img src="https://github.com/lilyastri/tct/blob/master/img/Gm8.JPG" alt="gam8"/>
+   <img src="https://github.com/lilyastri/tct/blob/master/img/Gm9.JPG" alt="gam9"/>
 
 **Fitur :**
 -------
