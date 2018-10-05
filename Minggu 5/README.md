@@ -1,8 +1,9 @@
 ### Kelompok 1 :
-#### Annisa Aziza Yekti (163210007)
-#### Lily Isnaini Astriningsih (163210010)
-#### Enjang Dwi Kartini (163210011)
-#### Ayu Widya Inggit (163210012)
+Annisa Aziza Yekti (163210007)
+Lily Isnaini Astriningsih (163210010)
+Enjang Dwi Kartini (163210011)
+Ayu Widya Inggit (163210012)
+
 ---
 ## Spredsheet berbasis Java Script 
 ---
@@ -348,7 +349,7 @@ buka browser, dan ketikkan di url http://localhost/nama_folder/nama_file
 
 maka output nya adalah seperti berikut
 
-   <img src="https://github.com/lilyastri/tct/blob/master/img/cap2.jpg" alt="cap2"/>
+   <img src="https://github.com/lilyastri/tct/blob/master/img/cap2.JPG" alt="cap2"/>
 
 
 
