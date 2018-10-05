@@ -8,7 +8,10 @@
 ---
 ### Handsontable
 ------
-Membuat File dengan nama index.html dan di simpan pada directory xampp/htdocs/nama_folder
+
+   <img src="https://github.com/lilyastri/tct/blob/master/img/cap0.jpg" alt="cap0"/>
+   
+**Membuat File dengan nama index.html dan di simpan pada directory xampp/htdocs/nama_folder**
 
 source code :
 
@@ -339,11 +342,13 @@ source code :
 -----
 Masukkan Perintah Seperti berikut pada cmd
 
-Gmbr 1
+   <img src="https://github.com/lilyastri/tct/blob/master/img/cap1.jpg" alt="cap1"/>
 
 buka browser, dan ketikkan di url http://localhost/nama_folder/nama_file
+
 maka output nya adalah seperti berikut
-Gambar 2
+
+   <img src="https://github.com/lilyastri/tct/blob/master/img/cap2.jpg" alt="cap2"/>
 
 
 
