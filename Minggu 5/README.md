@@ -1,4 +1,5 @@
 ### Kelompok 1 :
+-----
 Annisa Aziza Yekti (163210007)
 
 Lily Isnaini Astriningsih (163210010)
@@ -350,7 +351,8 @@ Masukkan Perintah Seperti berikut pada cmd
 
 buka browser, dan ketikkan di url http://localhost/nama_folder/nama_file
 
-maka output nya adalah seperti berikut
+**maka output nya adalah seperti berikut**
+------
 
    <img src="https://github.com/lilyastri/tct/blob/master/img/cap2.JPG" alt="cap2"/>
 
