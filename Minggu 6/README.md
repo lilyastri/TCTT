@@ -11,9 +11,7 @@ setelah proses instalasi selesai, buka cmd dan masukkan perintah
 perintah diatas digunakan untuk mengecek versi dari nodeJS kita Install tadi. 
 
 ---
-Selanjutnya buat Direktori Projek, misalnya "Travel". Sesudah membuat directory masuk ke direktory dengan perintah cd Travel.
-Setelah masuk install Packages yang diperlukan. Disini packages yang diperlukan hanya Express, sehingga saya hanya akan menginstal 
-Express saja gunakan perintah seperti dibawah untuk menginstall Express  
+Selanjutnya buat Direktori Projek, misalnya "Travel". Sesudah membuat directory masuk ke direktory dengan perintah cd Travel. Setelah masuk install Packages yang diperlukan. Disini packages yang diperlukan hanya Express, sehingga saya hanya akan menginstal Express saja gunakan perintah seperti dibawah untuk menginstall Express  
      
      npm install --save express
 
@@ -33,8 +31,7 @@ Langkah selanjutnya, jalankan file index.js melalui cmd dengan memasukkan perint
 	node index.js
 
 ---
-Langkah terakhir, salin url yang terdapat pada layar cmd setelah index.js berhasil dijalankan tadi kemudian jalankan url 
-tersebut melalui browser.
+Langkah terakhir, salin url yang terdapat pada layar cmd setelah index.js berhasil dijalankan tadi kemudian jalankan url tersebut melalui browser.
 
 	
 
