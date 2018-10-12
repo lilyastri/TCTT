@@ -30,8 +30,9 @@ Langkah selanjutnya, jalankan file index.js melalui cmd dengan memasukkan perint
 	
 	node index.js
 
+   <img src="https://github.com/lilyastri/tct/blob/master/img/gam1.jpg" alt="cap22"/>
 ---
 Langkah terakhir, salin url yang terdapat pada layar cmd setelah index.js berhasil dijalankan tadi kemudian jalankan url tersebut melalui browser.
-
+   <img src="https://github.com/lilyastri/tct/blob/master/img/gam2.jpg" alt="cap33"/>
 	
 
