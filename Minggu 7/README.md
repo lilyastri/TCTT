@@ -17,10 +17,15 @@ kemudian jalankan file get-pip.py dengan perintah
 ---
 kemudian menambahkan direktori python/pip ke dalam environment variables, caranya seperti ini :
 - klik kanan pada This PC kemudian klik properties
+
      <img src="https://github.com/lilyastri/tct/blob/master/img/gb2.jpg" alt="gb22"/>
+     
 - kemudian pilih Advanced system settings dan klik Environment Variables
+
      <img src="https://github.com/lilyastri/tct/blob/master/img/gb3.jpg" alt="gb32"/>
+     
 - klik Path di bagian System variables kemudian masukkan direktori python/tempat penyimpanan pip, yaitu di Python27/Script
+
      <img src="https://github.com/lilyastri/tct/blob/master/img/gb4.jpg" alt="gb42"/>
 
 ---
@@ -38,11 +43,14 @@ kemudian kita untuk membuat projek baru dengan perintah
 	virtualenv venv
 
 sehingga dalam direktory projek yang kita buat tadi akan muncul packages baru bernama venv yang berisi directory-directory untuk membuat project seperti gambar dibawah 
-   <img src="https://github.com/lilyastri/tct/blob/master/img/gb7.JPG" alt="gb72"/>
+
+   <img src="https://github.com/lilyastri/tct/blob/master/img/gb7.JPEG" alt="gb72"/>
 
 ---
 kemudian masuk ke directory venv, dan buat folder app 
-   <img src="https://github.com/lilyastri/tct/blob/master/img/gb8.JPG" alt="gb82"/>
+
+   <img src="https://github.com/lilyastri/tct/blob/master/img/gb8.JPEG" alt="gb82"/>
+   
 sehingga nanti akan muncul direktori baru di folder venv
 
 ---
