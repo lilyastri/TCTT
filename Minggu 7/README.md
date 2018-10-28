@@ -44,12 +44,9 @@ kemudian kita untuk membuat projek baru dengan perintah
 
 sehingga dalam direktory projek yang kita buat tadi akan muncul packages baru bernama venv yang berisi directory-directory untuk membuat project seperti gambar dibawah 
 
-   <img src="https://github.com/lilyastri/tct/blob/master/img/gb7.JPEG" alt="gb72"/>
-
 ---
 kemudian masuk ke directory venv, dan buat folder app 
 
-   <img src="https://github.com/lilyastri/tct/blob/master/img/gb8.JPEG" alt="gb82"/>
    
 sehingga nanti akan muncul direktori baru di folder venv
 
@@ -123,4 +120,15 @@ kemudian install flask mysql untuk menghubungkan dengan database yang akan ambil
 membuat page templates di dalam directori app. 
 template digunakan sebagai view. 
 
+kemudian jalankan file app.py dengan perintah 
+	
+	python app.py
+
+maka jika sukses akan tampil seperti gambar dibawah
+   
+   <img src="https://github.com/lilyastri/tct/blob/master/img/gb11.JPG" alt="g112"/>
+
+salin URL nya kemudian jalankan melalui browser
+
+   <img src="https://github.com/lilyastri/tct/blob/master/img/gb100.JPG" alt="g122"/>
 
