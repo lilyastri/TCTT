@@ -38,7 +38,7 @@ Setelah selesai setting, kemudian membuat direktory baru dengan nama Projek
 	
 	mkdir projek
 
-Masuk ke directori projek dan install pip dengan perintah 
+Masuk ke directori projek dan install virtualenv dengan perintah 
         
 	cd projek
 	pip install virtualenv
