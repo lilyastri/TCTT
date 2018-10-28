@@ -43,11 +43,11 @@ Masuk ke directori projek dan install virtualenv dengan perintah
 	cd projek
 	pip install virtualenv
 
-Kemudian kita untuk membuat projek baru dengan perintah 
+Kemudian untuk membuat project baru, masukkan perintah
 	
 	virtualenv venv
 
-Sehingga dalam direktory projek yang kita buat tadi akan muncul packages baru bernama venv yang berisi directory-directory untuk membuat project seperti gambar dibawah 
+Sehingga dalam direktory projek yang kita buat tadi akan muncul packages baru bernama venv yang berisi directory-directory untuk membuat project. 
 
 ---
 Kemudian masuk ke directory venv, dan buat folder app sehingga nanti akan muncul direktori baru di folder venv
