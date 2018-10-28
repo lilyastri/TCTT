@@ -5,20 +5,21 @@ Untuk membuat proyek menggunakan Python, jika belum memiliki Python bisa install
 ---
 Disini Framework yang akan saya gunakan adalah Flask. Sebelum penginstallan flask maka kita harus melakukan penginstalan pip. Download file get-pip.py disini https://pip.pypa.io/en/stable/installing/
 
----
-Setelah itu jalankan perintah dibawah untuk mengecek versi pip yang akan digunakan. untuk menjalankan file get-pip.py pastikan sudah masuk ke direktory penyimpanan file nya. Disini saya menyimpannya di desktop.
+---    
+Untuk menjalankan file get-pip.py pastikan sudah masuk ke direktory penyimpanan file nya. Disini saya menyimpannya di desktop.Kemudian jalankan file get-pip.py dengan perintah 
+	
+	python get-pip.py
+	
+----
+Setelah itu jalankan perintah dibawah untuk mengecek versi pip yang akan digunakan. 
         
 	pip --version 
 
 
    <img src="https://github.com/lilyastri/tct/blob/master/img/pip.jpg" alt="gb77"/>
----
-     
-Kemudian jalankan file get-pip.py dengan perintah 
-	
-	python get-pip.py
 
----
+----
+
 Kemudian menambahkan direktori python/pip ke dalam environment variables, caranya seperti ini :
 - klik kanan pada This PC kemudian klik properties
 
@@ -37,19 +38,19 @@ Setelah selesai setting, kemudian membuat direktory baru dengan nama Projek
 	
 	mkdir projek
 
-masuk ke directori projek dan install pip dengan perintah 
+Masuk ke directori projek dan install pip dengan perintah 
         
 	cd projek
 	pip install virtualenv
 
-kemudian kita untuk membuat projek baru dengan perintah 
+Kemudian kita untuk membuat projek baru dengan perintah 
 	
 	virtualenv venv
 
-sehingga dalam direktory projek yang kita buat tadi akan muncul packages baru bernama venv yang berisi directory-directory untuk membuat project seperti gambar dibawah 
+Sehingga dalam direktory projek yang kita buat tadi akan muncul packages baru bernama venv yang berisi directory-directory untuk membuat project seperti gambar dibawah 
 
 ---
-kemudian masuk ke directory venv, dan buat folder app sehingga nanti akan muncul direktori baru di folder venv
+Kemudian masuk ke directory venv, dan buat folder app sehingga nanti akan muncul direktori baru di folder venv
 
    <img src="https://github.com/lilyastri/tct/blob/master/img/app.jpg" alt="gb92"/>
 
