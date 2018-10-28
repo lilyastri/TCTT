@@ -1,11 +1,9 @@
-# Menampilkan Data Menggunakan Python Flask dan Mysql 
+### Menampilkan Data Menggunakan Python Flask dan Mysql 
 ----
-Untuk membuat proyek menggunakan Python, jika belum memiliki Python bisa install Python di https://www.python.org/downloads/
-di tugas ini saya menggunakan Pyton versi 2.7 
+Untuk membuat proyek menggunakan Python, jika belum memiliki Python bisa install Python di https://www.python.org/downloads/. Di tugas ini saya menggunakan Pyton versi 2.7 
 
 ---
-Disini Framework yang akan saya gunakan adalah Flask. Sebelum penginstallan flask maka kita harus melakukan penginstalan pip
-download file get-pip.py disini https://pip.pypa.io/en/stable/installing/
+Disini Framework yang akan saya gunakan adalah Flask. Sebelum penginstallan flask maka kita harus melakukan penginstalan pip. Download file get-pip.py disini https://pip.pypa.io/en/stable/installing/
 
 ---
 Setelah itu jalankan perintah dibawah untuk mengecek versi pip yang akan digunakan. untuk menjalankan file get-pip.py pastikan sudah masuk ke direktory penyimpanan file nya. Disini saya menyimpannya di desktop.
@@ -19,13 +17,14 @@ kemudian jalankan file get-pip.py dengan perintah
 ---
 kemudian menambahkan direktori python/pip ke dalam environment variables, caranya seperti ini :
 - klik kanan pada This PC kemudian klik properties
-  gb2...
+     <img src="https://github.com/lilyastri/tct/blob/master/img/gb2.jpg" alt="gb22"/>
 - kemudian pilih Advanced system settings dan klik Environment Variables
-  gb3
+     <img src="https://github.com/lilyastri/tct/blob/master/img/gb3.jpg" alt="gb32"/>
 - klik Path di bagian System variables kemudian masukkan direktori python/tempat penyimpanan pip, yaitu di Python27/Script
-  gb4..
+     <img src="https://github.com/lilyastri/tct/blob/master/img/gb4.jpg" alt="gb42"/>
 
-setelah selesai setting, kemudian membuat direktory baru dengan nama Projek
+---
+Setelah selesai setting, kemudian membuat direktory baru dengan nama Projek
 	
 	mkdir projek
 
@@ -39,11 +38,11 @@ kemudian kita untuk membuat projek baru dengan perintah
 	virtualenv venv
 
 sehingga dalam direktory projek yang kita buat tadi akan muncul packages baru bernama venv yang berisi directory-directory untuk membuat project seperti gambar dibawah 
-gb7....
+   <img src="https://github.com/lilyastri/tct/blob/master/img/gb7.JPG" alt="gb72"/>
 
 ---
 kemudian masuk ke directory venv, dan buat folder app 
-gb8...
+   <img src="https://github.com/lilyastri/tct/blob/master/img/gb8.JPG" alt="gb82"/>
 sehingga nanti akan muncul direktori baru di folder venv
 
 ---
