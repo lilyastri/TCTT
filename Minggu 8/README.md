@@ -4,7 +4,7 @@
 #### Pengertian Web 2.0
 ---
 
-Teknologi Web 2.0 mulai dikembangkan sekitar tahun 2004. Web 2.0 merupakan teknologi web yang menyatukan teknologi-teknologi yang dimiliki dalam membangun web. Penyatuan tersebut merupakan gabungan dari HTML, CSS, JavaScript, XML, dan AJAX. HTML selalu disandingkan dengan CSS untuk mempercantik tampilan web. JavaScript membuat tampilan yang dinamis. XML digunakan untuk mendefinisikan format data. AJAX adaalh penggabungan dari JavaScript dan XML yang menekankan pada pengelolaan konten.
+Teknologi Web 2.0 mulai dikembangkan sekitar tahun 2004. Web 2.0 merupakan teknologi web yang menyatukan teknologi-teknologi yang dimiliki dalam membangun web. Penyatuan tersebut merupakan gabungan dari HTML, CSS, JavaScript, XML, dan AJAX. HTML selalu disandingkan dengan CSS untuk mempercantik tampilan web. JavaScript membuat tampilan yang dinamis. XML digunakan untuk mendefinisikan format data. AJAX adalah penggabungan dari JavaScript dan XML yang menekankan pada pengelolaan konten.
 
 ---
 
