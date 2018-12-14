@@ -42,7 +42,7 @@ Merupakan aplikasi web yang melakukan kombinasi data yang berasal dari lebih dar
 ---
 - Software Wiki/Forum.
 
-Software wiki ataupun forum digunakan untuk membantu pengguna menciptakan contentnya sendiri dan berkolaborasi satu sama lain. Contohnya kembali pada Wikipedia, di mana Anda dapat dengan mudah menciptakan dan mengubah content sebuah artikel.
+Software wiki ataupun forum digunakan untuk membantu pengguna menciptakan contentnya sendiri dan berkolaborasi satu sama lain. Contohnya kembali pada Wikipedia, Di mana Anda dapat dengan mudah menciptakan dan mengubah content sebuah artikel.
 
 ---
 - Syndication.
