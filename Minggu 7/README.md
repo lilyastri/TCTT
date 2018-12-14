@@ -25,11 +25,11 @@ Kemudian menambahkan direktori python/pip ke dalam environment variables, carany
 
      <img src="https://github.com/lilyastri/tct/blob/master/img/gb2.jpg" alt="gb22"/>
      
-- kemudian pilih Advanced system settings dan klik Environment Variables
+- Kemudian pilih Advanced system settings dan klik Environment Variables
 
      <img src="https://github.com/lilyastri/tct/blob/master/img/gb3.jpg" alt="gb32"/>
      
-- klik Path di bagian System variables kemudian masukkan direktori python/tempat penyimpanan pip, yaitu di Python27/Script
+- Klik Path di bagian System variables kemudian masukkan direktori python/tempat penyimpanan pip, yaitu di Python27/Script
 
      <img src="https://github.com/lilyastri/tct/blob/master/img/gb4.jpg" alt="gb42"/>
 
